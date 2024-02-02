@@ -4,7 +4,8 @@
   "region": "US",
   "envs": [
     "feishuAppId",
-    "feishuAppSecret"
+    "feishuAppSecret",
+    "Authorization"
   ],
   "typescript": false
 }
