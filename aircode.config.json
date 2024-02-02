@@ -1,0 +1,10 @@
+{
+  "name": "feishu",
+  "runtime": "node/v18",
+  "region": "US",
+  "envs": [
+    "feishuAppId",
+    "feishuAppSecret"
+  ],
+  "typescript": false
+}

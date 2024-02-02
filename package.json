@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@larksuiteoapi/node-sdk": "1.23.0",
+    "aircode": "0.7.0",
+    "axios": "1.6.7"
+  }
+}
